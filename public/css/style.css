@@ -1,0 +1,72 @@
+.ops-main{
+
+}
+
+.ops-td-label{
+    background-color: #eeeeee;
+}
+
+
+.bs-callout {
+  padding-top: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 0;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  margin-left: 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+}
+
+.bs-callout-warning {
+  border-left-color: #aa6708; }
+
+.bs-callout-info {
+  border-left-color: #1b809e; }
+
+.bs-callout + .bs-callout {
+  margin-top: -5px; }
+
+pre{
+    border: none;
+    background-color: #FFFFFF;
+}
+
+table.ops-notes {
+    table-layout: fixed;
+}
+
+table.ops-notes .ops-notes-date{
+    width: 100px;
+}
+
+table.ops-notes .ops-notes-type{
+    width: 80px;
+}
+
+table.ops-notes .ops-notes-hours{
+    width: 120px;
+}
+
+table.ops-notes .ops-notes-actual-hours{
+    width: 100px;
+}
+
+table.ops-notes .ops-notes-content{
+    /* width: 500px; */
+}
+
+span.ops-annotation{
+    font-size: 14px;
+}
+
+.exam-problem {
+    margin-top: 10px;
+}
+
+code.hljs {
+    padding: 15px;
+}
